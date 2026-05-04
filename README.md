@@ -1,7 +1,7 @@
 # Симпсоны: Классификация персонажей
 
 Проект по классификации персонажей мультсериала «Симпсоны» с использованием сверточных нейронных сетей и transfer learning. \
-[Ссылка на Google Colab](https://drive.google.com/file/d/19gTN7gyR4YJZMBKeFZ9FSOOKgq_F3GBR/view?usp=drive_link) \
+[Ссылка на Google Colab](https://colab.research.google.com/drive/1P07XWsnV4_srOom5OKbMNvjjg_hiT2Re?usp=sharing) \
 [Соревнование на kaggle](https://www.kaggle.com/competitions/journey-to-springfield1) 
 
 ## Результаты
